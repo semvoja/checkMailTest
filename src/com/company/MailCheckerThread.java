@@ -10,7 +10,7 @@ public class MailCheckerThread implements Runnable{
             try {
                 if (WorkWithMail.checkNewMail()) {
                     System.out.println("Новое сообщение!");
-                    W
+
                 }
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
