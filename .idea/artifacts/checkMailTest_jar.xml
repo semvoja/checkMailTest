@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="checkMailTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/checkMailTest_jar</output-path>
+    <root id="archive" name="checkMailTest.jar">
+      <element id="module-output" name="checkMailTest" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/mail/mail/1.4/mail-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
